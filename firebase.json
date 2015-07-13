@@ -1,0 +1,10 @@
+{
+  "firebase": "todo-post-app",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**",
+    "Makefile"
+  ]
+}
